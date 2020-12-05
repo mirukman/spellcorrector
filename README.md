@@ -83,4 +83,4 @@ a, b에서 생성한 key 각각에 대해 과정2에서 만든 색인을 검색�
 localhost:8080/search?query=간상
 ~~~
 
-![결과](https://github.com/mirukman/spellcorrector/images/search_result.png){: width="80%" height="80%"}
+![결과](./images/search_result.png){: width="80%" height="80%"}
